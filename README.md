@@ -4,7 +4,7 @@ Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, livi
 
 ## Follow me
 
-[![Linkedin: Mohammad Khafas](https://img.shields.io/badge/-mohammad-khafas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-khafas-b77932239/)](https://www.https://www.linkedin.com/in/mohammad-khafas-b77932239/)
+[![Linkedin: Mohammad Khafas](https://img.shields.io/badge/-mohammad-khafas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohammad-khafas-b77932239/)](https://linkedin.com/in/mohammad-khafas-b77932239/)
 
 [![GitHub](https://img.shields.io/github/followers/hoodaddeveloper?label=follow&style=social)](https://github.com/hoodaddeveloper)
 
