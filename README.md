@@ -8,6 +8,8 @@ Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, livi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-khafas-b77932239/)
 
+[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
+
 ## Languages, Frameworks, Libraries and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
