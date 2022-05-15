@@ -10,7 +10,7 @@ Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, livi
 
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
 
-[![freeCodeCamp](https://github.com/hoodaddeveloper/hoodaddeveloper/blob/main/freeCodeCamp.JPG)
+[![freeCodeCamp](https://github.com/hoodaddeveloper/hoodaddeveloper/blob/main/freeCodeCamp.JPG)](https://www.freecodecamp.org/hoodaddeveloper)
 
 ## Languages, Frameworks, Libraries and Tools
 
