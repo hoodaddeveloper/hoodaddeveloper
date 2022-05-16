@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP/MySQL in Back-end Development.
+Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP, MySQL in Back-end Development.
 
 ## Follow me:
 
@@ -8,9 +8,11 @@ Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, livi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper)
 
-[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
-
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
+
+## My Cerifications from freeCodeCamp:
+
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
 
 ## Languages, Frameworks, Libraries and Tools
 
