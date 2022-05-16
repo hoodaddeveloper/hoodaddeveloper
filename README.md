@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js.
+Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP/MySQL in Back-end Development.
 
-## Follow me
+## Follow me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 
@@ -20,7 +20,10 @@ Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, livi
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
