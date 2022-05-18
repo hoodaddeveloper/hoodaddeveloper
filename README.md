@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP, MySQL in Back-end Development.
+My name is Mohammad Khafas (Hoodad). I'm an amateur Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP, MySQL in Back-end Development.
 
 ## Follow me:
 
