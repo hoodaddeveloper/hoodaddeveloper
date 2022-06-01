@@ -16,7 +16,7 @@ My name is Mohammad Khafas (Hoodad). I'm a Junior Front-end Developer, living in
 
 ## freeCodeCamp Certification Progress & Projects in GitHub:
 
-[My freeCodeCamp Progress](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+## [My freeCodeCamp Progress](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
 ## Languages, Frameworks, Libraries & Tools:
 
