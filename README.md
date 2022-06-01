@@ -10,8 +10,6 @@ My name is Mohammad Khafas (Hoodad). I'm a Junior Front-end Developer, living in
 
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
 
-## ✅ Linkedin Licenses & certifications:
-
 ## ✅ freeCodeCamp Portfolio & Certifications:
 
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
