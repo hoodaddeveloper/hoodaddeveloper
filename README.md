@@ -2,7 +2,7 @@
 
 My name is Mohammad Khafas (Hoodad). I'm a Junior Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP, MySQL in Back-end Development.
 
-## 🔍 Where to find me
+## 🔍 Where to find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 
@@ -18,7 +18,7 @@ My name is Mohammad Khafas (Hoodad). I'm a Junior Front-end Developer, living in
 
 ## [My freeCodeCamp Progress](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
-## Languages, Frameworks, Libraries & Tools:
+## 🛠 Languages, Frameworks, Libraries & Tools:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
