@@ -14,7 +14,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
 
-### 👉 [Projects & Certifications](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
+### [Projects & Certifications](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
 ## 🛠 Languages, Frameworks, Libraries & Tools:
 
