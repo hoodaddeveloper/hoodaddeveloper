@@ -7,10 +7,12 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper)
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
-## ✅ freeCodeCamp Portfolio & Certifications:
+## ✅ freeCodeCamp & CodeCademy Certifications:
 
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ### [Projects & Certifications](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
