@@ -9,11 +9,13 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 [![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
-## ✅ freeCodeCamp & CodeCademy Certifications:
-[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
+#
 
-### [freeCodeCamp Projects & Certifications](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+## ✅ freeCodeCamp & CodeCademy Certifications Links:
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
+## [freeCodeCamp Projects & Certifications in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
+
+# ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 ## 🛠 Languages, Frameworks, Libraries & Tools:
 
