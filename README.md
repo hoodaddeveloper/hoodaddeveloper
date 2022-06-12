@@ -2,6 +2,8 @@
 
 My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript and Vue.js in Front-end and PHP, XAMPP and MySQL in Back-end Development in "NetMarket PMS GmbH" Company in Elsdorf Germany. At "Georg-Simon-Ohm-Berufskolleg" School in Cologne City I learn Python and Theories.
 
+---
+
 ### 🔍 Where to find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
@@ -11,8 +13,8 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ---
 
 ### ✅ Linkedin, Codecademy & freeCodeCamp Certifications Links:
-## [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
-## [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www......)
+### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
+### [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www......)
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
 ### [freeCodeCamp Projects & Certifications in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
