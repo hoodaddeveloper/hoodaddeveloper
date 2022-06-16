@@ -4,7 +4,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 ---
 
-## 🔍 Where to find me:
+### 🔍 Where to find me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper)
@@ -12,7 +12,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 ---
 
-## ✅ LinkedIn Learning, Codecademy & freeCodeCamp Certifications Links:
+### ✅ LinkedIn Learning, Codecademy & freeCodeCamp Certifications Links:
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
 ### [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www......)
 ### [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
@@ -20,7 +20,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 ---
 
-## 🛠 Languages, Frameworks, Libraries & Tools:
+### 🛠 Languages, Frameworks, Libraries & Tools:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
