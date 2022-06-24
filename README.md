@@ -46,12 +46,16 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 ---
 
+<a href="http://www.github.com/kalagar"><img src="https://activity-graph.herokuapp.com/graph?username=kalagar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+---
+
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hoodaddeveloper&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hoodaddeveloper&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
+[![Visit](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
