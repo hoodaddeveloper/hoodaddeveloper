@@ -44,8 +44,12 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoodaddeveloper&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hoodaddeveloper&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
