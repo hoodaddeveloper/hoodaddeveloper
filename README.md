@@ -61,9 +61,6 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
