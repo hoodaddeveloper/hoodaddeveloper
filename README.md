@@ -48,7 +48,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-###
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -60,7 +60,5 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
