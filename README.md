@@ -5,7 +5,6 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ---
 
 ### 🔍 Where to find me:
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
@@ -13,7 +12,6 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ---
 
 ### ✅ LinkedIn Learning, Codecademy & freeCodeCamp Certifications Links:
-
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
 ### [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www......)
 ### [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
@@ -22,7 +20,6 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ---
 
 ### 🛠 Languages, Frameworks, Libraries & Tools:
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -43,7 +40,6 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ---
 
 ### 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoodaddeveloper&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
