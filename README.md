@@ -44,20 +44,18 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoodaddeveloper&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+#
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoodaddeveloper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
+#
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hoodaddeveloper&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-###
+#
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-###
 
 [![Visit](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
