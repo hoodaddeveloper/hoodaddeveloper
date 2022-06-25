@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end and using PHP, XAMPP and MySQL in Back-end Development in "NetMarket PMS GmbH" Company in Elsdorf Germany. At "Georg-Simon-Ohm-Berufskolleg" School in Cologne City I learn Python and Theories.
+My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end and sometimes using PHP, XAMPP and MySQL for practicing Back-end Development in "NetMarket PMS GmbH" Company in Elsdorf Germany. At "Georg-Simon-Ohm-Berufskolleg" School in Cologne City I learn Python and Theories.
 
 ---
 
