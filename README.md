@@ -2,14 +2,14 @@
 
 My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and currently I am in an Apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end and sometimes using PHP, XAMPP and MySQL for practicing Back-end Development in "NetMarket PMS GmbH" Company in Elsdorf Germany. At "Georg-Simon-Ohm-Berufskolleg" School in Cologne City I learn Python and Theories.
 
----
+#
 
 ### 🔍 Where to find me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoodaddeveloper)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19003964/mohammad-khafas)
 
----
+#
 
 ### ✅ LinkedIn Learning, Codecademy & freeCodeCamp Certifications Links:
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
@@ -17,7 +17,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ### [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
 ### [freeCodeCamp Projects in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 
----
+#
 
 ### 🛠 Languages, Frameworks, Libraries & Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@ My name is Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
+#
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hoodaddeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
