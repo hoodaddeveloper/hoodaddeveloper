@@ -16,7 +16,7 @@ _I'm Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and cu
 
 #
 
-### ✅ LinkedIn Learning, Codecademy & freeCodeCamp Certifications Links:
+## ✅ Where to find my Certifications::
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoodaddeveloper/details/certifications/)
 ### [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www......)
 ### [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/hoodaddeveloper)
