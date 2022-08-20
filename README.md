@@ -42,12 +42,14 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 - `$(jQuery)` getting better!
 - `Redux` getting better!
 - `NPM` getting better!
+- `Python` getting better!
 - `<? php ?>` not bad!
 - `Git` & `GitHub` great!
 - Other skills not mentioned...
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
