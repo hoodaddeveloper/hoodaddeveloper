@@ -39,16 +39,12 @@ _I'm Mohammad Khafas. I'm a Junior Front-end Developer, living in Germany and cu
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 - `<? php ?>` great
-- `{{ Laravel }}` great
-- `>> puts 'Ruby'` good
-- `<%= 'Ruby on Rails' %>` great
 - `JavaScript` & `$(jQuery)` good
 - `Vue.js` great
 - `React.js` getting better
 - `Angular.js` not bad
 - `<HTML>` + `{CSS}` + `@Less` + `$Sass` great
-- `DATABASE` & `SQL` very good
-- `Git` & `Git-Flow` great
+- `Git` & `GitHub` great
 - `^ RegExp $` not bad
 - `Redis` it's Easy
 - `$ Unix` banner good
