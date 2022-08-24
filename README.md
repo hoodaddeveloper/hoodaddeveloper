@@ -36,12 +36,12 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 
 - `<HTML 5>` + `{CSS 3}` + `$SASS` good!
 - `Bootstrap 5` good!
-- `JavaScript` + `ES6` good!
+- `JavaScript` good!
 - `Vue.js` getting better!
-- `React.js` getting better!
-- `$(jQuery)` getting better!
-- `Redux` getting better!
-- `NPM` getting better!
+- `React.js` planning to learn!
+- `$(jQuery)` planning to learn!
+- `Redux` planning to learn!
+- `NPM` planning to learn!
 - `Python` getting better!
 - `<? php ?>` not bad!
 - `Git` & `GitHub` great!
