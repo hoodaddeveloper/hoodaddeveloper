@@ -11,11 +11,11 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 
 ## 🔍 Where to find my Certifications:
 - # [`My Personal Portfolio`](https://github.com/hoodaddeveloper/My-Personal-Portfolio)
-- ### [`My LinkedIn Profile, Cerficications & Skills`](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
-- ### [`My CodeCademy Cerficications`](https://www.codecademy.com/learn)
-- ### [`My freeCodeCamp Cerficications`](https://www.freecodecamp.org/hoodaddeveloper)
-- ### [`My freeCodeCamp Projects in GitHub`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
-- ### [`My Stack Overflow Profile`](https://stackoverflow.com/users/19003964/mohammad-khafas)
+- ### [My `LinkedIn` Profile, Certifications & Skills](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
+- ### [My `CodeCademy` Certifications](https://www.codecademy.com/learn)
+- ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
+- ### [My `freeCodeCamp Projects` in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
+- ### [My `Stack Overflow` Profile](https://stackoverflow.com/users/19003964/mohammad-khafas)
 
 #
 
