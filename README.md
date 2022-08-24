@@ -29,18 +29,18 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-- `<HTML 5>` + `{CSS 3}` + `$SASS` good!
-- `Bootstrap 5` good!
-- `JavaScript` good!
-- `Vue.js` getting better!
-- `React.js` planning to learn!
-- `$(jQuery)` planning to learn!
-- `Redux` planning to learn!
-- `NPM` planning to learn!
-- `Python` getting better!
-- `<? php ?>` not bad!
-- `Git` & `GitHub` great!
-- Other skills not mentioned...
+- #### `<HTML 5>` + `{CSS 3}` + `$SASS` good!
+- #### `Bootstrap 5` good!
+- #### `JavaScript` good!
+- #### `Vue.js` getting better!
+- #### `React.js` planning to learn!
+- #### `$(jQuery)` planning to learn!
+- #### `Redux` planning to learn!
+- #### `NPM` planning to learn!
+- #### `Python` getting better!
+- #### `<? php ?>` not bad!
+- #### `Git` & `GitHub` great!
+- #### Other skills not mentioned...
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
