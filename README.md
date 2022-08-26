@@ -72,4 +72,3 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![Visit](https://visitcount.itsvg.in/api?id=hoodaddeveloper&icon=5&color=0)](https://visitcount.itsvg.in)
