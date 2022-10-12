@@ -5,12 +5,12 @@ _Make that thing of yours even better. I can help either with the big picture or
 
 ## 🤔 ABOUT ME?
 Sure!
-_I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and currently I am in an apprenticeship as IT-Specialist for Web Development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end Development in "NetMarket PMS GmbH" Company. At "Georg-Simon-Ohm-Berufskolleg" School in Cologne City I learn Python Language and other theories._
+_I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and currently I am in an apprenticeship as IT-Specialist for Web development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end development in "NetMarket PMS GmbH" company. At the "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learn Python language and other theories._
 
 #
 
 ## 🔍 Where to find my Certifications:
-### :point_right: [`My full Personal Portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
+### :point_right: [`My full personal portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
 - ### [My `LinkedIn` Profile, Certifications & Skills](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
 - ### [My `Codecademy` Certifications](https://www.codecademy.com/learn)
 - ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
