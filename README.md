@@ -3,7 +3,7 @@
 ## 🔭 What I do ? 
 _Make that thing of yours even better. I can help either with the big picture or with specifics._
 
-## 🤔 ABOUT ME?
+## 😏 ABOUT ME?
 Sure!
 _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and currently I am in an apprenticeship as IT-Specialist for Web development using HTML/CSS, Bootstrap, JavaScript, Sass, Redux, React and Vue.js in Front-end development in "NetMarket PMS GmbH" company. At the "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learn Python language and other theories._
 
