@@ -38,7 +38,7 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 - `Redux` planning to learn!
 - `NPM` planning to learn!
 - `Python` getting better!
-- `<? php ?>` not bad!
+- `<? php 8 ?>` not bad!
 - `Git` & `GitHub` great!
 - Other skills not mentioned...
 
