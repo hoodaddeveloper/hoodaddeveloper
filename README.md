@@ -34,7 +34,7 @@ _I'm Mohammad Khafas, a junior Front-end Developer, living in Germany and curren
 - `JavaScript` good!
 - `Vue.js` getting better!
 - `React.js` planning to learn!
-- `$(jQuery)` planning to learn!
+- `$(jQuery)` good!
 - `Redux` planning to learn!
 - `NPM` planning to learn!
 - `Python 3` getting better!
