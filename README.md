@@ -12,7 +12,7 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 #
 
 ## 🔍 Where to find my Certifications:
-### :point_right: [`My full personal portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
+### :point_right: [`My full personal Portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
 - ### [My `LinkedIn` Profile, Certifications & Skills](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
 - ### [My `Codecademy` Certifications](https://www.codecademy.com/learn)
 - ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
