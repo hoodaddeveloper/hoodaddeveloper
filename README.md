@@ -39,7 +39,7 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 - `React.js` planning to learn!
 - `$(jQuery)` good!
 - `Redux` planning to learn!
-- `NPM` planning to learn!
+- `Yarn` planning to learn!
 - `Python 3` getting better!
 - `<? PHP ?>` not bad!
 - `Git` & `GitHub` great!
