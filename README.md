@@ -12,13 +12,13 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 #
 
 ## 🔍 Where to find my Certifications:
+### :point_right: [`See all of my international Certifications`](https://drive.google.com/drive/folders/1tbHHbTNVk8OOa4wS2PBXyobL39oylmtT) :point_left:
 ### :point_right: [`My full personal Portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
 - ### [My `LinkedIn` Profile, Certifications & Skills](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
-- ### [My `Codecademy` Certifications](https://www.codecademy.com/profiles/hoodaddeveloper)
-- ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
 - ### [My `freeCodeCamp Projects` in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
+- ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
+- ### [My `Codecademy` Certifications](https://www.codecademy.com/profiles/hoodaddeveloper)
 - ### [My `Stack Overflow` Profile](https://stackoverflow.com/users/19003964/mohammad-khafas)
-### :point_right: [`See all of my international Certifications`](https://drive.google.com/drive/folders/1tbHHbTNVk8OOa4wS2PBXyobL39oylmtT) :point_left:
 
 #
 
