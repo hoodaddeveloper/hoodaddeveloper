@@ -29,23 +29,21 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+- `TYPO3` good!
 - `<HTML 5>` + `{CSS 3}` + `$SASS` good!
 - `Bootstrap 5` good!
 - `JavaScript` good!
 - `Vue.js` getting better!
-- `React.js` planning to learn!
 - `$(jQuery)` good!
-- `Redux` planning to learn!
 - `Yarn` planning to learn!
 - `Python 3` getting better!
 - `<? PHP ?>` not bad!
 - `Git` & `GitHub` great!
 - Other skills not mentioned...
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
