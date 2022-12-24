@@ -32,12 +32,12 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-- `TYPO3 11` good!
 - `<HTML 5>` + `{CSS 3}` + `$SASS` good!
 - `Bootstrap 5` good!
 - `JavaScript ES6` good!
 - `Vue.js 3` getting better!
 - `$(jQuery)` good!
+- `TYPO3 11` good!
 - `Yarn` planning to learn!
 - `Python 3` getting better!
 - `<? PHP ?>` not bad!
