@@ -32,12 +32,14 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-- `<HTML 5>` + `{CSS 3}` + `$SASS` good!
+- `TYPO3 11` good!
+- `<HTML 5>` good!
+- `{CSS 3}` good!
+- `$SASS` good!
 - `Bootstrap 5` good!
 - `JavaScript ES6` good!
 - `Vue.js 3` getting better!
 - `$(jQuery)` good!
-- `TYPO3 11` good!
 - `Yarn` planning to learn!
 - `Python 3` getting better!
 - `<? PHP ?>` not bad!
@@ -52,6 +54,7 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 #
 
