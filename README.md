@@ -42,12 +42,10 @@ _In addition to my apprenticeship I have studied more than 5000 hours in 14 mont
 - `$(jQuery)` good!
 - `Yarn` planning to learn!
 - `Python 3` getting better!
-- `<? PHP ?>` not bad!
 - `Git` & `GitHub` great!
 - Other skills not mentioned...
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
