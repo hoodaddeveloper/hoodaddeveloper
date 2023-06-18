@@ -7,7 +7,9 @@ _Make that thing of yours even better. I can help either with the big picture or
 Sure!
 _I'm Mohammad Khafas, a junior Front-end web developer & TYPO3 CMS developer, living in Germany. I finished my one year apprenticeship as IT-Specialist for Web development using HTML/CSS, Bootstrap 5, JavaScript, SASS and Vue.js in Front-end development in "NetMarket PMS GmbH" Company. At the "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learned Python language and other theories._
 
-_In addition to my apprenticeship I have studied more than 5000 hours in 14 months at home and earned more than 111 international Certifications from LinkedIn Learning, freeCodeCamp & Codecademy!_
+_In addition to my apprenticeship I have studied more than 5000 hours in 14 months at home and earned more than 111 international Certifications from LinkedIn Learning, freeCodeCamp & Codecademy._
+
+_Iam now working as a Front-end & TYPO3 CMS developer at "Einmahl WebSolution GmbH" in Cologne Germany._
 
 #
 
