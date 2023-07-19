@@ -17,7 +17,7 @@ _Now I am working as a front-end & TYPO3 CMS developer at "Einmahl WebSolution G
 ## 🔍 Where to find my Certifications:
 ### :point_right: [`See all of my international Certifications`](https://drive.google.com/drive/folders/1tbHHbTNVk8OOa4wS2PBXyobL39oylmtT) :point_left:
 ### :point_right: [`My full personal Portfolio in GitHub`](https://github.com/hoodaddeveloper/My-Personal-Portfolio) :point_left:
-- ### [My `LinkedIn` Profile, Certifications & Skills](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
+- ### [My `LinkedIn` Profile and Certifications](https://www.linkedin.com/in/hoodaddeveloper/details/certifications)
 - ### [My `freeCodeCamp works` in GitHub](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress)
 - ### [My `freeCodeCamp` Certifications](https://www.freecodecamp.org/hoodaddeveloper)
 - ### [My `Codecademy` Certifications](https://www.codecademy.com/profiles/hoodaddeveloper)
