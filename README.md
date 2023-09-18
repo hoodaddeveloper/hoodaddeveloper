@@ -10,7 +10,7 @@ At "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learned Python langua
 
 _In addition to my apprenticeship I have studied more than 5000 hours in 14 months at home and earned more than 111 international Certifications from LinkedIn Learning, freeCodeCamp & Codecademy._
 
-_Now I am working as a front-end & TYPO3 CMS developer at "Einmahl WebSolution GmbH" in Cologne Germany._
+_I was also working as a front-end & TYPO3 CMS developer at "Einmahl WebSolution GmbH" in Cologne Germany from 12.2022 until 07.2023._
 
 #
 
