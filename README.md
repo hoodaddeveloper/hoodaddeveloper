@@ -5,8 +5,8 @@ _Make that thing of yours even better. I can help either with the big picture or
 
 ## 😏 ABOUT ME?
 Sure!
-_I'm Mohammad Khafas, a junior front-end web developer & TYPO3 CMS developer, living in Germany. I finished my one year apprenticeship as IT-Specialist for Web development using HTML/CSS, Bootstrap 5, JavaScript, SASS and Vue.js in Front-end development in "NetMarket PMS GmbH" Company.
-At "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learned Python language and other theories._
+_I'm Mohammad Khafas, a junior front-end web developer & TYPO3 CMS developer, living in Germany. I finished my one year apprenticeship as IT-Specialist for Web development. I used HTML/CSS, Bootstrap 5, JavaScript, SASS and Vue.js in Front-end development at "NetMarket PMS GmbH" Company.
+At "Georg-Simon-Ohm-Berufskolleg" school in Cologne city I learned Python and other theories._
 
 _In addition to my apprenticeship I have studied more than 5000 hours in 14 months at home and earned more than 111 international Certifications from LinkedIn Learning, freeCodeCamp & Codecademy._
 
