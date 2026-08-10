@@ -14,6 +14,12 @@ _From December 2022 to July 2023, I worked as a front-end and TYPO3 developer at
 ### 🌍 Let's Connect!
 _I'm always interested in connecting with like-minded professionals and exploring new opportunities. Feel free to reach out if you want to collaborate or have any questions!_
 
+MY INSTAGRAM:
+www.instagram.com/iamhoodad
+
+MY LINKEDIN:
+www.linkedin.com/in/hoodaddeveloper
+
 #
 
 ## 🔍 Where to find my Certifications:
